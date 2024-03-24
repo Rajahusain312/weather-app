@@ -8,7 +8,7 @@ button img {
     /* border: solid 2px; */
     background: rgb(238,174,202);
     background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(0,111,241,1) 97%);
-    margin: 100px auto 0;
+    margin: 100px auto 100px;
     border-radius: 20px;
     padding: 40px 35px;
     text-align: center;
@@ -44,6 +44,7 @@ input {
 .weather-icon {
     width: 170px;
     margin-top: 30px;
+    margin-bottom: -40px;
 
 }
 .weather h1 {
